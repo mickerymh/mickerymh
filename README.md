@@ -1,5 +1,4 @@
-## 
-<img src="https://vercel.app/status/?steamid=<76561198413739814 here>"/>
+## ![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=<76561198413739814here>&show_in_game_bg=true)
 
 <!--
 **mickerymh/mickerymh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
