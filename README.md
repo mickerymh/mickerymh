@@ -1,6 +1,4 @@
-<html>
-<center>The world has not forgotten.</center>
-</html>
+<p align="center">*The world has not forgotten.*</p>
 ![hack](/images/rWB5OFJqVH.jpg)
 <!--
 **mickerymh/mickerymh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
